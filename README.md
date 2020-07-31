@@ -4,18 +4,18 @@
 # Database
 	Bot has the postgresql database. You should use two talbles for load products.
 	Fist table is category. second tables is dish.
-	****
-	How load products to batabse?
+
+	# How load products to batabse?
 	First of the all you should load the categories to category tables.
 	After filling in the category table, you need to fill in the dish table
-	*****
-	#Category table structure
+
+	# Category table structure
 		id
 		:	id field stores id of category(autoadd)
 		category_name
 		:	category_name stores name of category(type is string)
-	****
-	#Dish table structure
+	
+	# Dish table structure
 		id
 		:	id field stores id of dish(autoadd)
 		dish_name
