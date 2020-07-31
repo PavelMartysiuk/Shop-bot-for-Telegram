@@ -32,10 +32,7 @@ page:
 	Optimal quantity of dish on one page of pagenator is five.The Page field is used for store the number of paginator page for this dish.
 	Field type is integer.
 	
-Apple
-:   Pomaceous fruit of plants of the genus Malus in 
-    the family Rosaceae.			
- 
+
 	
 
 
